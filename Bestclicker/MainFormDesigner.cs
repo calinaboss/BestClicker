@@ -84,7 +84,7 @@ namespace AutoClicker
             this.lblTitle.ForeColor = System.Drawing.Color.FromArgb(120, 200, 255);
             this.lblTitle.Location = new System.Drawing.Point(16, 8);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Text = "⚡ AutoClicker";
+            this.lblTitle.Text = "BestClicker";
 
             // lblSubtitle
             this.lblSubtitle.AutoSize = true;
