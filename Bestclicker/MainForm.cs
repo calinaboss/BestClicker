@@ -17,7 +17,8 @@ namespace AutoClicker
     PopulateKeyComboBox();
     
     _hotkeyManager = new HotkeyManager(this.Handle);
-    _hotkeyManager.HotkeyPressed += OnHotkeyPressed; // Questo ti conviene lasciarlo qui
+    _hotkeyManager.HotkeyPressed += OnHotkeyPressed; 
+    
     ApplyHotkey();
 
     
